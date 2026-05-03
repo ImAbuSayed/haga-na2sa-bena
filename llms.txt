@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبي في حاجة ناقصة بينا
+> والروح بتنادي من سنين
+> في عيوني شوق ونار بتكوينا
+> مستني ترجع يا نور العين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
