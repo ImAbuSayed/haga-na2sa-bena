@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/haga-na2sa-bena/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Haga Na2sa Bena](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
